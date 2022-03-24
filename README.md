@@ -16,4 +16,4 @@ The Client is a marketing agency that requested for search engine optimization a
 
 # Technologies
 * Visual studio code
-* GitHub
+* GitHub# HoriseonMarketing
